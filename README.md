@@ -7,29 +7,51 @@ Bloom Mom is a mobile application designed to support pregnant women—especiall
 code file structure
 
 bloomMom/
+
 ├── src/
 
 │   ├── screens/
+
 │   │   ├── ChatScreen.js
+
 │   │   ├── HealthTrackerScreen.js
+
 │   │   ├── HomeScreen.js
+
 │   │   ├── RecipesScreen.js
+
 |   |   ├── ResourcesScreen.js
+
 |   |   ├── SavedResponsesScreen.js
+
 |   |   ├── TopicsScreen.js
+
 │   │   └── WorkoutVideosScreen.js
+
 │   ├── services/
+
 │   │   └── api.js
+
 │   ├── assets/
+
 |   |   ├── adaptive-icon.png
+
 |   |   ├── favicon.png
+
 |   |   ├── icon.png
+
 |   |   ├── snack-icon.png
+
 │   │   └── splash-icon.png
+
 ├── App.js
+
 ├── app.json
+
 ├── index.js
+
 ├── package.json
+
 └── README.md
 
 **Setup instructions**
