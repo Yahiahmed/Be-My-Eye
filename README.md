@@ -5,8 +5,10 @@ Bloom Mom is a mobile application designed to support pregnant women—especiall
 
 **Pre setup**
 code file structure
+
 bloomMom/
 ├── src/
+
 │   ├── screens/
 │   │   ├── ChatScreen.js
 │   │   ├── HealthTrackerScreen.js
