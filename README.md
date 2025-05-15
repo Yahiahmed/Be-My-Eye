@@ -56,7 +56,7 @@ bloomMom/
 
 **Setup instructions**
 
-Open "https"//https://snack.expo.dev/" copy and paste the code in the`App.js` file for main modifications. setup the rest file structure by creating folders and uploading the files from here. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save**.
+Open "https://snack.expo.dev/" copy and paste the code in the`App.js` file for main modifications. setup the rest file structure by creating folders and uploading the files from here. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save**.
 
 note: (add all the files that ends with the word "screen" to sub-folder called "screens" and main folder called "src")
 
